@@ -1,2 +1,191 @@
-# MENU-CARD
-This is my first small project using only HTML. I am still learning CSS and JavaScript , in future I will use them surely
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Menu Card</title>
+</head>
+
+<body>
+
+        <h1 style="background-color: rgb(238, 255, 0);">Café Curryous</h1>
+        <blockquote><i style="background-color: bisque;">| where Curryosity is Served Daily |</i></blockquote>
+        <h3>Appetizers: <small><i><u style="color: rgb(240, 25, 90);">First bites, lasting impressions.</u></i></small>
+        </h3>
+
+        <ul>
+                <li><strong>Mini Dhokla Bites</strong> – ₹250<br><small>Steamed Gujarati savory cakes, often served with
+                                microgreens and chutney foam.</small></li>
+                <li><strong>Khandvi Rolls</strong> – ₹300<br><small>Gram flour rolls with tempered mustard seeds,
+                                garnished with
+                                coconut and coriander.</small></li>
+                <li><strong>Truffle Samosa</strong> – ₹400<br><small>Classic samosa with a twist—infused with truffle
+                                oil and
+                                served with beetroot chutney.</small></li>
+                <li><strong>Aloo Tikki Chaat Tower</strong> – ₹450<br><small>Potato patties with yogurt spheres,
+                                tamarind gel,
+                                and mint foam.</small></li>
+                <li><strong>Paneer Tikka Skewer</strong> – ₹600<br><small>Char-grilled cottage cheese cubes marinated in
+                                saffron
+                                and hung curd.</small></li>
+                <li><strong>Hara Bhara Kabab</strong> – ₹650<br><small>Spinach, peas, and potato patties grilled with
+                                aromatic
+                                spices.</small></li>
+                <li><strong>Stuffed Mushroom Caps</strong> – ₹700<br><small>Button mushrooms filled with spiced paneer
+                                and
+                                herbs, oven-roasted.</small></li>
+                <li><strong>Gobi Manchurian (Dry)</strong> – ₹750<br><small>Indo-Chinese cauliflower bites tossed in
+                                gourmet
+                                soy-chili glaze.</small></li>
+                <li><strong>Tandoori Broccoli</strong> – ₹800<br><small>Marinated in hung curd and spices, grilled to
+                                perfection.</small></li>
+                <li><strong>Chilli Paneer (Dry)</strong> – ₹850<br><small>Fried paneer cubes tossed in a sweet-spicy
+                                Indo-Chinese sauce.</small></li>
+        </ul>
+
+
+        <hr style="border: 1px solid rgb(255, 119, 0);">
+        <h3>Main Course : <small><i><u style="color: rgb(240, 25, 90);">Where every flavor tells a
+                                        story.”</u></i></small>
+        </h3>
+        <ul>
+
+                <li><strong>Veg Pulao</strong> – ₹200–₹350<br><small>Fragrant basmati rice with seasonal vegetables and
+                                subtle
+                                spices.</small></li>
+                <li><strong>Paneer Butter Masala</strong> – ₹250–₹450<br><small>Creamy tomato-based gravy with soft
+                                paneer
+                                cubes.</small></li>
+                <li><strong>Mix Vegetable Curry</strong> – ₹300–₹500<br><small>Medley of veggies in mildly spiced gravy,
+                                served
+                                with naan.</small></li>
+                <li><strong>Rajma Chawal</strong> – ₹350–₹550<br><small>Hearty kidney beans in thick gravy paired with
+                                steamed
+                                rice.</small></li>
+                <li><strong>Palak Paneer</strong> – ₹400–₹600<br><small>Spinach purée blended with paneer and
+                                spices.</small>
+                </li>
+                <li><strong>Methi Malai Matar</strong> – ₹500–₹700<br><small>Fenugreek leaves and green peas in creamy
+                                cashew
+                                sauce.</small></li>
+                <li><strong>Subz Dum Biryani</strong> – ₹600–₹800<br><small>Slow-cooked biryani with saffron,
+                                vegetables, and
+                                spices.</small></li>
+                <li><strong>Rajasthani Gatta Curry</strong> – ₹650–₹850<br><small>Gram flour dumplings in spicy yogurt
+                                gravy.</small></li>
+                <li><strong>Gujarati Undhiyu</strong> – ₹700–₹900<br><small>Seasonal vegetables cooked with spices and
+                                fenugreek
+                                dumplings.</small></li>
+                <li><strong>Dal Baati Churma</strong> – ₹800–₹1000<br><small>Baked wheat balls with spicy dal and sweet
+                                churma.</small></li>
+
+
+        </ul>
+        <hr style="border: 1px solid rgb(255, 119, 0);">
+
+        <h3>Desserts:<small><i><u style="color: rgb(216, 25, 82);">For your sweeth tooth cravings</u></i></small></h3>
+
+        <ul>
+                <li><strong>Gulab Jamun</strong> – ₹100–₹250<br><small>Soft khoya dumplings soaked in rose-cardamom
+                                syrup.</small></li>
+                <li><strong>Chocolate Brownie (Indian twist)</strong> – ₹250–₹350<br><small>Fudgy brownie infused with
+                                chai
+                                masala, topped with kulfi or rabri.</small></li>
+                <li><strong>Ice Cream Sundae</strong> – ₹300–₹400<br><small>Layered scoops with saffron syrup, nuts, and
+                                falooda-style toppings.</small></li>
+                <li><strong>Rasmalai Cheesecake</strong> – ₹400–₹600<br><small>Fusion dessert with rasmalai layered over
+                                creamy
+                                cheesecake.</small></li>
+                <li><strong>Saffron Phirni</strong> – ₹500–₹700<br><small>Chilled rice pudding in clay pots, infused
+                                with
+                                saffron and pistachios.</small></li>
+                <li><strong>Rose Gulkand Kulfi</strong> – ₹600–₹800<br><small>Traditional kulfi with rose petal preserve
+                                and
+                                candied fennel.</small></li>
+                <li><strong>Mango Shrikhand Verrine</strong> – ₹700–₹900<br><small>Hung curd mousse layered with
+                                Alphonso mango
+                                purée and almond crumble.</small></li>
+                <li><strong>Dry Fruit Halwa Tart</strong> – ₹800–₹1000<br><small>Halwa made with dates and nuts, served
+                                in a
+                                buttery tart shell.</small></li>
+                <li><strong>Kesar Badam Soufflé</strong> – ₹1000–₹1200<br><small>Light saffron-almond soufflé with a
+                                hint of
+                                cardamom.</small></li>
+                <li><strong>Pista Rabri Mille-Feuille</strong> – ₹1200–₹1500<br><small>Flaky pastry layers with
+                                pistachio rabri
+                                and rose cream.</small></li>
+        </ul>
+        <hr style="border: 1px solid rgb(255, 119, 0);">
+        <h3>Breads: <small><i><u style="color: rgb(217, 26, 83);"> Artisan Indian breads,
+                                        vegetarian-friendly</u></i></small></h3>
+
+        <ul>
+                <li><strong>Butter Naan</strong> – ₹80<br><small>Soft leavened bread brushed with melted butter, ideal
+                                with rich
+                                gravies.</small></li>
+                <li><strong>Garlic Naan</strong> – ₹120<br><small>Naan topped with minced garlic and herbs, baked in a
+                                tandoor.</small></li>
+                <li><strong>Lachha Paratha</strong> – ₹150<br><small>Multi-layered whole wheat bread, crispy and
+                                flaky.</small>
+                </li>
+                <li><strong>Missi Roti</strong> – ₹100<br><small>Spiced gram flour roti, earthy and rustic, pairs well
+                                with
+                                dal.</small></li>
+                <li><strong>Roomali Roti</strong> – ₹80<br><small>Thin, soft bread folded like a handkerchief, served
+                                with
+                                kebabs or curries.</small></li>
+                <li><strong>Stuffed Kulcha (Paneer/Onion)</strong> – ₹200<br><small>Fluffy bread stuffed with spiced
+                                paneer or
+                                onion filling.</small></li>
+                <li><strong>Tandoori Roti</strong> – ₹100<br><small>Whole wheat bread baked in a clay oven, slightly
+                                smoky
+                                flavor.</small></li>
+                <li><strong>Cheese Naan</strong> – ₹250<br><small>Naan filled with melted cheese, indulgent and
+                                rich.</small>
+                </li>
+                <li><strong>Methi Paratha</strong> – ₹150<br><small>Whole wheat bread with fresh fenugreek leaves and
+                                spices.</small></li>
+                <li><strong>Truffle Butter Kulcha</strong> – ₹300<br><small>Luxury kulcha infused with black truffle
+                                butter,
+                                served in fine dining.</small></li>
+        </ul>
+
+
+        <hr style="border: 1px solid rgb(255, 119, 0);">
+        <h3>Beverages: <small><i><u style="color: rgb(217, 26, 83);">Sip happens</u></i></small></h3>
+
+        <ul>
+                <li><strong>Masala Chai</strong> – ₹80<br><small>Spiced Indian tea brewed with milk, ginger, and
+                                cardamom.</small></li>
+                <li><strong>Fresh Lime Soda</strong> – ₹100<br><small>Chilled soda with fresh lime juice, served sweet
+                                or
+                                salty.</small></li>
+                <li><strong>Filter Coffee</strong> – ₹120<br><small>South Indian-style strong coffee with milk and
+                                sugar.</small></li>
+                <li><strong>Sweet Lassi</strong> – ₹150<br><small>Chilled yogurt drink sweetened with sugar and rose
+                                essence.</small></li>
+                <li><strong>Salted Lassi</strong> – ₹150<br><small>Yogurt-based drink with salt, cumin, and
+                                mint.</small></li>
+                <li><strong>Badam Milk</strong> – ₹180<br><small>Milk infused with almonds, saffron, and
+                                cardamom.</small></li>
+                <li><strong>Aam Panna</strong> – ₹200<br><small>Raw mango cooler with mint and roasted cumin.</small>
+                </li>
+                <li><strong>Thandai</strong> – ₹220<br><small>Festive milk drink with nuts, fennel, and rose
+                                petals.</small>
+                </li>
+                <li><strong>Jaljeera</strong> – ₹250<br><small>Spicy cumin-mint drink, served chilled as a
+                                digestive.</small>
+                </li>
+                <li><strong>Rose Falooda</strong> – ₹300<br><small>Layered dessert drink with rose syrup, vermicelli,
+                                and ice
+                                cream.</small></li>
+        </ul>
+
+
+        <p><a href="tel:8456974581">BOOK FOR RESERVATION</a></p>
+        <p><a href="mailto:cafecurryous@gmail.com">For suggestions/reviews</a></p>
+        <p>Thank you for dining with us!</p>
+</body>
+
+</html>
